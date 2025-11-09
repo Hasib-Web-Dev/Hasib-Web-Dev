@@ -30,7 +30,7 @@
 <p align="center" class="social-icons">
   <!-- GitHub -->
   <a href="https://github.com/Hasib-Web-Dev" target="_blank">
-    <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="filter: invert(1);">
+    <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original">
   </a>
 
   <!-- Facebook -->
