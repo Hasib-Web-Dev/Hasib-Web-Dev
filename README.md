@@ -29,14 +29,27 @@
 
 <p align="center" class="social-icons">
   <!-- GitHub -->
+<style>
+  .github-icon {
+    filter: invert(34%) sepia(97%) saturate(5000%) hue-rotate(190deg) brightness(100%) contrast(90%);
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  .github-icon:hover {
+    transform: scale(1.2);
+    filter: invert(34%) sepia(97%) saturate(5000%) hue-rotate(190deg) brightness(120%) contrast(95%) drop-shadow(0 0 8px #3b82f6);
+  }
+</style>
+
 <a href="https://github.com/Hasib-Web-Dev" target="_blank">
   <img
     alt="GitHub"
     height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    style="filter: invert(1);"
+    class="github-icon"
   >
 </a>
+
 
 
   <!-- Facebook -->
