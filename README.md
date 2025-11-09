@@ -20,6 +20,7 @@
     display: inline-block;
     transition: transform 0.3s ease, filter 0.3s ease;
   }
+
   .social-icons a:hover {
     transform: scale(1.2);
     filter: drop-shadow(0 0 8px #00bcd4);
@@ -27,20 +28,26 @@
 </style>
 
 <p align="center" class="social-icons">
+  <!-- GitHub -->
   <a href="https://github.com/Hasib-Web-Dev" target="_blank">
-    <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="filter: invert(1);">
   </a>
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank">
-    <img alt="Facebook" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
+    <img alt="Facebook" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank">
-    <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+    <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
+
+  <!-- Twitter (light blue color fix) -->
   <a href="https://x.com/hasibul_alam_" target="_blank">
-    <img alt="Twitter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg">
+    <img alt="Twitter" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" style="filter: drop-shadow(0 0 2px #1DA1F2);">
   </a>
 </p>
-
 
 
 ---
