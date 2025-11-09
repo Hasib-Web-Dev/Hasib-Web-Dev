@@ -13,67 +13,19 @@
 </p>
 
 <!-- Social -->
-<!-- 🌐 Stylish Social Section -->
-<style>
-  .social-icons a {
-    margin: 0 10px;
-    display: inline-block;
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-
-  .social-icons a:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(0 0 8px #00bcd4);
-  }
-</style>
-
-<p align="center" class="social-icons">
-  <!-- GitHub -->
-<style>
-  .github-icon {
-    filter: invert(34%) sepia(97%) saturate(5000%) hue-rotate(190deg) brightness(100%) contrast(90%);
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-
-  .github-icon:hover {
-    transform: scale(1.2);
-    filter: invert(34%) sepia(97%) saturate(5000%) hue-rotate(190deg) brightness(120%) contrast(95%) drop-shadow(0 0 8px #3b82f6);
-  }
-</style>
-
-<a href="https://github.com/Hasib-Web-Dev" target="_blank">
-  <img
-    alt="GitHub"
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    class="github-icon"
-  >
-</a>
-
-
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank">
-    <img alt="Facebook" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank">
-    <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  </a>
-
-  <!-- Twitter (light blue color fix) -->
-  <a href="https://x.com/hasibul_alam_" target="_blank">
-    <img alt="Twitter" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" style="filter: drop-shadow(0 0 2px #1DA1F2);">
-  </a>
+<p align="center">
+  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank"><img alt="Facebook" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank"><img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+  &nbsp;
+  <a href="https://x.com/hasibul_alam_" target="_blank"><img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"></a>
 </p>
-
 
 ---
 
 ### 🔭 Currently I am
 - 🚀 Exploring **Next.js**
-- 🛍️ Building an **Coaching Center Website**
+- 🛍️ Building an **E-commerce sneakers website**
 
 ---
 
@@ -115,7 +67,7 @@
 ---
 
 ### 🗂️ Featured Projects
-- 🏷️ **Coaching Center Website** –  Built with HTML, CSS • [Live](https://hasib-web-dev.github.io/Faith-Coaching-Home/) • [Code](https://github.com/Hasib-Web-Dev)
+- 🏷️ **E-commerce Sneakers Store** – A modern React + Node.js project • [Live](https://hasib-web-dev.github.io/portfolio) • [Code](https://github.com/Hasib-Web-Dev)
 - 🏷️ **Portfolio Website** – Personal showcase built with HTML, CSS, JS • [Live](https://hasib-web-dev.github.io/portfolio) • [Code](https://github.com/Hasib-Web-Dev/portfolio)
 
 ---
