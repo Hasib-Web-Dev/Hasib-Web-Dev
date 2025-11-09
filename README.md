@@ -14,11 +14,21 @@
 
 <!-- Social -->
 <p align="center">
-  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank"><img alt="Facebook" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"></a>
+  <a href="https://github.com/Hasib-Web-Dev" target="_blank">
+    <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank"><img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank">
+    <img alt="Facebook" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
+  </a>
   &nbsp;
-  <a href="https://x.com/hasibul_alam_" target="_blank"><img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"></a>
+  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank">
+    <img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+  </a>
+  &nbsp;
+  <a href="https://x.com/hasibul_alam_" target="_blank">
+    <img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg">
+  </a>
 </p>
 
 ---
