@@ -15,16 +15,9 @@
 <!-- Social -->
 <!-- 🌐 Social -->
 <p align="center" style="margin-top: 10px;">
-  <!-- GitHub -->
+  <!-- GitHub (blue) -->
   <a href="https://github.com/Hasib-Web-Dev" target="_blank" style="margin: 0 10px;">
-    <img
-      alt="GitHub"
-      height="35"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      style="filter: invert(1) drop-shadow(0 0 6px #3b82f6); transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(1) drop-shadow(0 0 8px #60a5fa)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(1) drop-shadow(0 0 6px #3b82f6)';"
-    >
+    <img alt="GitHub" height="35" src="https://cdn.simpleicons.org/github/3b82f6">
   </a>
 
   <!-- Facebook -->
