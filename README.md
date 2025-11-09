@@ -13,23 +13,57 @@
 </p>
 
 <!-- Social -->
-<p align="center">
-  <a href="https://github.com/Hasib-Web-Dev" target="_blank">
-    <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+<!-- 🌐 Social -->
+<p align="center" style="margin-top: 10px;">
+  <!-- GitHub -->
+  <a href="https://github.com/Hasib-Web-Dev" target="_blank" style="margin: 0 10px;">
+    <img
+      alt="GitHub"
+      height="35"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      style="filter: invert(1) drop-shadow(0 0 6px #3b82f6); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(1) drop-shadow(0 0 8px #60a5fa)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(1) drop-shadow(0 0 6px #3b82f6)';"
+    >
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank">
-    <img alt="Facebook" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank" style="margin: 0 10px;">
+    <img
+      alt="Facebook"
+      height="35"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+      style="filter: drop-shadow(0 0 4px #1877F2); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)';"
+      onmouseout="this.style.transform='scale(1)';"
+    >
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank">
-    <img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank" style="margin: 0 10px;">
+    <img
+      alt="LinkedIn"
+      height="35"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      style="filter: drop-shadow(0 0 4px #0A66C2); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)';"
+      onmouseout="this.style.transform='scale(1)';"
+    >
   </a>
-  &nbsp;
-  <a href="https://x.com/hasibul_alam_" target="_blank">
-    <img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg">
+
+  <!-- Twitter (light blue visible) -->
+  <a href="https://x.com/hasibul_alam_" target="_blank" style="margin: 0 10px;">
+    <img
+      alt="Twitter"
+      height="35"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
+      style="filter: brightness(0) saturate(100%) invert(56%) sepia(92%) saturate(1606%) hue-rotate(180deg) brightness(102%) contrast(101%) drop-shadow(0 0 4px #1DA1F2); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(0) saturate(100%) invert(56%) sepia(92%) saturate(1606%) hue-rotate(180deg) brightness(120%) contrast(105%) drop-shadow(0 0 8px #1DA1F2)';"
+      onmouseout="this.style.transform='scale(1)';"
+    >
   </a>
 </p>
+
 
 ---
 
