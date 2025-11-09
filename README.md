@@ -25,7 +25,7 @@
 
 ### 🔭 Currently I am
 - 🚀 Exploring **Next.js**
-- 🛍️ Building an **E-commerce sneakers website**
+- 🛍️ Building an **Educational coaching center**
 
 ---
 
@@ -71,10 +71,6 @@
 - 🏷️ **Faith Coaching Home**  
   A responsive website for an educational coaching center  
   🔗 [Live](https://hasib-web-dev.github.io/Faith-Coaching-Home/) • [Code](https://github.com/Hasib-Web-Dev/Faith-Coaching-Home)
-
-- 🏷️ **E-commerce Sneakers Store**  
-  A modern React + Node.js sneakers shop  
-  🔗 [Live](https://hasib-web-dev.github.io/portfolio) • [Code](https://github.com/Hasib-Web-Dev)
 
 - 🏷️ **Portfolio Website**  
   Personal showcase built with HTML, CSS, JS  
