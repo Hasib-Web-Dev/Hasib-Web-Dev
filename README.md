@@ -1,32 +1,83 @@
-![Web Developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/505707532_3932544237057235_5331618035574762834_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGc4cs7eKUleOvZMJn3CXkY4ocXZLKs3TzihxdksqzdPAkv2Lco2po3Vt2MiYLYnkAUOowAAOQsNkQnu0TPaDd-&_nc_ohc=3VuBA_W137wQ7kNvwHAgj6Q&_nc_oc=AdnC4e9_ey2ufVswg5HECMXkbwjJ9TsjBrzLTgu22H8MX8cUlwG3nW8Dx8B9f-IAl4s&_nc_zt=23&_nc_ht=scontent.fdac155-1.fna&_nc_gid=weBj-PEORG4XEFmowO3ViQ&oh=00_AfjK-U57SGJNU62nNBxpFHHrhgzr5IKVAmH22nvcdOzA1A&oe=6915F101)
-### Hi there 👋, I'm Hasibul Alam
-#### Web Developer
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm <span style="color:#58a6ff">Hasibul Alam</span></h1>
+<p align="center">A motivated web developer focused on delivering efficient and visually appealing solutions</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasib-Web-Dev&style=for-the-badge&color=blueviolet" alt="profile views" />
+</p>
 
-I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP
+<!-- Quick Links -->
+<p align="center">
+  🔗 <a href="https://hasib-web-dev.github.io/portfolio" target="_blank">My Portfolio</a> &nbsp; • &nbsp;
+  📧 <a href="mailto:hasibulalam19775@gmail.com">hasibulalam19775@gmail.com</a>
+</p>
 
-Skills: PHP / REACT / JS / HTML / CSS
+<!-- Social -->
+<p align="center">
+  <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank"><img alt="Facebook" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hasibul---alam/" target="_blank"><img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+  &nbsp;
+  <a href="https://x.com/hasibul_alam_" target="_blank"><img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"></a>
+</p>
 
-- 🔭 I’m currently working on Agency 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Gmail or Whatsapp 
+---
 
+### 🔭 Currently I am
+- 🚀 Exploring **Next.js**
+- 🛍️ Building an **E-commerce sneakers website**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hasib-Web-Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasibul---alam//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hasibul.alam.853336)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/hasibul_alam_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://l.facebook.com/l.php?u=https%3A%2F%2Fhasib-web-dev.github.io%2Fportfolio%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExMTd5THFQU1U5emd5Tk9vdHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR408Da4kG0V-35UuOEnC77Ey4TN5pGXSv55OB0GQoeoH4Q6UYTWZt1g3PK9AQ_aem_N05R2A2CSYz9bQh2IBorBA&h=AT1-7Ubfc8V4-J5VxjYn_Kh5bBqNESfVlmSPy59AYBUr83PwYpSkhtoUUVZ6dXqmuDL6LKc_iMSUKWXnmySsQhIIn071xiqudqebLIeCR-RQSykD9_qf5Vh5pO89vjrgJZ1XzQ)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Hasib-Web-Dev)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Hasib-Web-Dev)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Hasib-Web-Dev&show_icons=true&count_private=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasib-Web-Dev&show_icons=true&theme=radical" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib-Web-Dev&layout=compact&theme=radical" height="165" alt="Top Languages"/>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Hasib-Web-Dev/contributions?format=svg&private=true)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hasib-Web-Dev&theme=radical" alt="GitHub Streak"/>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Hasib-Web-Dev)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasib-Web-Dev&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Hasib-Web-Dev)  
+---
 
+### 🗂️ Featured Projects
+- 🏷️ **E-commerce Sneakers Store** – A modern React + Node.js project • [Live](https://hasib-web-dev.github.io/portfolio) • [Code](https://github.com/Hasib-Web-Dev)
+- 🏷️ **Portfolio Website** – Personal showcase built with HTML, CSS, JS • [Live](https://hasib-web-dev.github.io/portfolio) • [Code](https://github.com/Hasib-Web-Dev/portfolio)
+
+---
+
+### ✍️ About Me
+- 💻 Passionate about front-end and back-end web technologies  
+- 🧩 Always learning and improving my skills  
+- 🌍 Open to remote work and collaboration  
+
+<p align="center">
+  <a href="mailto:hasibulalam19775@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
+  <a href="https://hasib-web-dev.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"></a>
+</p>
