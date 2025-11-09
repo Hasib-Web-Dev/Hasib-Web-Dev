@@ -29,9 +29,14 @@
 
 <p align="center" class="social-icons">
   <!-- GitHub -->
-  <a href="https://github.com/Hasib-Web-Dev" target="_blank">
-    <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original">
-  </a>
+ <a href="https://github.com/Hasib-Web-Dev" target="_blank">
+  <img
+    alt="GitHub"
+    height="40"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-white.svg"
+  >
+</a>
+
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/hasibul.alam.853336" target="_blank">
