@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs every 24 hours (at 00:00 UTC)
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
 jobs:
