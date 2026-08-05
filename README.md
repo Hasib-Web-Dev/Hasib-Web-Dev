@@ -89,16 +89,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasib-Web-Dev&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib-Web-Dev&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" alt="GitHub Stats Details"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="GitHub Repos Per Language"/>
 </p>
 
 <p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="GitHub Stats Summary"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="GitHub Productive Time"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak (পাবলিক সার্ভিস ঠিক থাকলে লোড হবে) -->
   <img src="https://streak-stats.demolab.com/?user=Hasib-Web-Dev&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasib-Web-Dev&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
