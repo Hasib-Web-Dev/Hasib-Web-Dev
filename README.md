@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hasib-Web-Dev&style=for-the-badge&color=blueviolet" alt="profile views" />
+  &nbsp;&nbsp;
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=Hasib-Web-Dev&theme=dark" alt="visitors" />
 </p>
 
 <!-- Quick Links -->
